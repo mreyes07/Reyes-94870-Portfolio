@@ -8,3 +8,5 @@ My name is Vic, my pronouns are he/him, and I am in the Arts Management Program 
 I don't have much formal teaching on data visualization so I am excited to learn most anything since it is pretty new to me. I mostly hope to learn better design techniques for communicating complex information as well as simple data visualization software techniques. 
 
 # Portfolio
+Visualizing Government Debt
+<iframe src="https://data.oecd.org/chart/61Ls" width="1250" height="938" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/61Ls" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
