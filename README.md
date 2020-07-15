@@ -12,4 +12,6 @@ Visualizing Government Debt
 <iframe src="https://data.oecd.org/chart/61Ls" width="950" height="713" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/61Ls" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 <div class="flourish-embed flourish-chart" data-src="visualisation/3178225" data-url="https://flo.uri.sh/visualisation/3178225/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+The chart appears to not be showing up despite embeding the chart so here is the link https://public.flourish.studio/visualisation/3186746/.
+
 <div class="flourish-embed flourish-scatter" data-src="visualisation/3186746" data-url="https://flo.uri.sh/visualisation/3186746/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
