@@ -29,5 +29,17 @@ All Gaphs could use some rewoking in terms of labeling and decription. What the 
 
 I choose to redesing the It's not about crime plot from the website https://mappingpoliceviolence.org/. I choose this graph because, I think this website is an incredibly clear and acessible way to get information on police violence data but, this graph was th hardest for me to understand. The statement is clear, that there is no corilation between violent crimes and killings by police. However, the choice to do a 3 way axis with a limited number of cities confused me and made it harder to understand the chart. Additionally the rate for police killings and the rate for violent crime where not calculated the same way and while one had an axis of 0-20, the other had a axis od 0-12. I felt that the chart could be seen as miss leading to a viewer who was on the fence about these topics and I felt the chart could comunicate the same infromation while being less manipulated.
 
+In my first wire frames I atempted to make the chart as simple as possible and tested diffrent varaibles that could comunicate the same information. I put only two variable and ploted the axies to better show the corilation (or lack there of) between violent crime and the number of police killings. I felt this proved the point about the lack of relationship better then ploting each indevidual city twice.
 <img src="https://user-images.githubusercontent.com/14946947/88243898-e38f4c00-cc5f-11ea-9b8d-80fc3c169ed8.png" alt="sketch 1">
 <img src="https://user-images.githubusercontent.com/14946947/88243892-df632e80-cc5f-11ea-883d-506a2ae7892e.png" alt="sketch 2">
+
+I showed these sketches to two of my housemates (one is a nerouscientist and the other is an artist) and the beigest insights I got was that:
+1. While they could easily tell what they graph was trying to say to them, they stuggled to understand the scope of the data and what each point was. 
+2. The Xs where confusing and it would be better for me to use circles.
+3. I shouldn't use one variable that is mearued by rate and one that is measured by raw number as this is still being deciving. 
+I took these insights into consideration and made a second wire frame that would be the guide for my final visualization. In this version I adjusted the rate of average crime so that it was by population per 1M to match the rate of police killing. I also added the information about the rate into the the axis tittles as done in the original graph. Addionaly, I added more decription into the subheadings to specify that each data point is a police department.
+<img src="https://user-images.githubusercontent.com/14946947/88243888-db371100-cc5f-11ea-9a25-c1c1a6e6bc51.png" alt="sketch 3">
+
+The first step to creating this graph was making minor adjustments to how rate was calculated in the data. However, when I did this the numbers for crime rate where much higher then even just the raw number. I did not want to portray the data this way becasue I felt it would misslead people on how much crime there actually is. I tried to adjust the rate of killings by police to per population of 1K but when doing that many of the number droped to less than 0. I felt like this rate would make the killings rate to abstract and would be harder to read the graph. I tried to then just graph the plot by raw numbers but the graph turned out to make a much less effective visual.
+<img src="https://user-images.githubusercontent.com/14946947/88243756-78457a00-cc5f-11ea-8de6-af7c6d5cd9ce.png" alt="first try">
+
