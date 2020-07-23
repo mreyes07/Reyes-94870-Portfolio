@@ -8,7 +8,7 @@ My name is Vic, my pronouns are he/him, and I am in the Arts Management Program 
 I don't have much formal teaching on data visualization so I am excited to learn most anything since it is pretty new to me. I mostly hope to learn better design techniques for communicating complex information as well as simple data visualization software techniques. 
 
 # Portfolio
-Assignment: Visualizing Government Debt
+*Assignment: Visualizing Government Debt
 
 All these charts use the same data from OECD.org which has the debt-to-GDP ratio of countries all over the world over time. The debt-to-GDP ratio is described on the website as "Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable." Some data is missing for some years inlcuding 2019 in which some has not been collected yet. Despite all charts using the same data, the three charts bellow comunicate diffrent things and have diffrent uses.
 
@@ -22,3 +22,7 @@ In my third graph I atempted to make a graph that comunicated the information of
 <div class="flourish-embed flourish-scatter" data-src="visualisation/3186746" data-url="https://flo.uri.sh/visualisation/3186746/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 All Gaphs could use some rewoking in terms of labeling and decription. What the Debt-to-GDP and Total % of GDP could be explained or phrased more clearly for the average viewer. The title could also do a better job at illustrating why we are looking at the graph in the first place and why it is important or intresting.
+
+*Assignment: Critique by Design
+
+
