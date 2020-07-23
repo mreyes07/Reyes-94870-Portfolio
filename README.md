@@ -29,4 +29,5 @@ All Gaphs could use some rewoking in terms of labeling and decription. What the 
 
 I choose to redesing the It's not about crime plot from the website https://mappingpoliceviolence.org/. I choose this graph because, I think this website is an incredibly clear and acessible way to get information on police violence data but, this graph was th hardest for me to understand. The statement is clear, that there is no corilation between violent crimes and killings by police. However, the choice to do a 3 way axis with a limited number of cities confused me and made it harder to understand the chart. Additionally the rate for police killings and the rate for violent crime where not calculated the same way and while one had an axis of 0-20, the other had a axis od 0-12. I felt that the chart could be seen as miss leading to a viewer who was on the fence about these topics and I felt the chart could comunicate the same infromation while being less manipulated.
 
-<img src="IMG_3098.jpeg" alt="sketch 1">
+<img src="https://user-images.githubusercontent.com/14946947/88243898-e38f4c00-cc5f-11ea-9b8d-80fc3c169ed8.png" alt="sketch 1">
+<img src="https://user-images.githubusercontent.com/14946947/88243892-df632e80-cc5f-11ea-883d-506a2ae7892e.png" alt="sketch 2">
