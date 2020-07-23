@@ -25,4 +25,10 @@ All Gaphs could use some rewoking in terms of labeling and decription. What the 
 
 *Assignment: Critique by Design*
 
+<img src="https://c0.piktochart.com/v2/uploads/4ff5230e-f2eb-4016-9187-64a2e6ef86d3/6eeebab7684f656d9d7f3fc005c5f43bbd98d575_original.png?1569845676=" alt="It's not about crime">
+
+
+I choose to redesing the It's not about crime plot from the website https://mappingpoliceviolence.org/. I choose this graph because, I think this is an incredibly clear and acessible way to get information on police violence data but, this graph was th hardest for me to understand. The statement is clear, that there is no corilation between violent crimes and killings by police. However, the choice to do a 3 way axis with a limited number of cities confused me and made it harder to understand the chart. Additionally the rate for police killings and the rate for violent crime where not calculated the same way and while one had an axis of 0-20, the other had a axis od 0-12. I felt that the chart could be seen as miss leading to a viewer who was on the fence about these topics and I felt the chart could comunicate the smae infromation while being less manipulated.
+
+
 
