@@ -37,6 +37,7 @@ I showed these sketches to two of my housemates (one is a nerouscientist and the
 1. While they could easily tell what they graph was trying to say to them, they stuggled to understand the scope of the data and what each point was. 
 2. The Xs where confusing and it would be better for me to use circles.
 3. I shouldn't use one variable that is mearued by rate and one that is measured by raw number as this is still being deciving. 
+
 I took these insights into consideration and made a second wire frame that would be the guide for my final visualization. In this version I adjusted the rate of average crime so that it was by population per 1M to match the rate of police killing. I also added the information about the rate into the the axis tittles as done in the original graph. Addionaly, I added more decription into the subheadings to specify that each data point is a police department.
 <img src="https://user-images.githubusercontent.com/14946947/88243888-db371100-cc5f-11ea-9a25-c1c1a6e6bc51.png" alt="sketch 3">
 
