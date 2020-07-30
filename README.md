@@ -47,7 +47,7 @@ The first step to creating this graph was making minor adjustments to how rate w
 The final design did not end up being as diffrent as the original as I had initially imagined. However, I think it is still more sucessful at illustration a lack of relationship. After this exercise I have a better apriciation for the original as I struggled for hours trying out diffrent varaibles and couldn't come up with a deisgn that was much diffrent.
 <img src="https://user-images.githubusercontent.com/14946947/88246235-e7bf6780-cc67-11ea-913f-cc62b94b2cb1.png" alt="it's not about crime redesign">
 
-*Assignment: Final Part 1*
+<a href="final_project_VicReyes.md"> *Assignment: Final* </a>
 
 Introduction and Outline
 <img src="https://user-images.githubusercontent.com/14946947/88870137-9e7c9400-d1e2-11ea-8864-258a8f9c1cc2.png">
