@@ -62,4 +62,4 @@ Initial Sketches
 <img src="https://user-images.githubusercontent.com/14946947/88877448-75b0ca80-d1f3-11ea-8673-2b34f430da6f.png">
 
 User Research and Interviews
-<img src=https://user-images.githubusercontent.com/14946947/88877550-c0324700-d1f3-11ea-9f69-679f54ec1599.png>
+<img src="https://user-images.githubusercontent.com/14946947/88877550-c0324700-d1f3-11ea-9f69-679f54ec1599.png">
