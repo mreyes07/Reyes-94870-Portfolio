@@ -28,7 +28,7 @@ The data I will be using comes from the 2018 meta-analysis "Associations between
 
 The intended audience for this project is people unfamiliar with sex work (primarily in Pittsburgh). I felt that many people who are unfamilar with the realities of sex work do not understand what criminalization truely means for sex workers. The first three slides are just deticated to a basic education on sex work as well as adressing some miss conceptions (sex workers work against thier will, sex work only means selling sex, ect.). I felt that adressing these ideas first would make the audience more receptive to the data that was collected. Some of the most important data was qualatative from interviews which I felt people would be unsympathetic to without more of a primer. 
 <br>
-
+piss
 # Design Decisions
 
 # What I've Learned 
