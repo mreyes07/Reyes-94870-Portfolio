@@ -7,7 +7,7 @@ https://carnegiemellon.shorthandstories.com/the-danger-of-criminalizing-sex-work
 <br>
 <img src="https://user-images.githubusercontent.com/14946947/89600779-d2823580-d830-11ea-949f-f30b74e30eb0.png">
 
-## Part 1
+# Part 1
 
 # Introduction and Outline
 <img src="https://user-images.githubusercontent.com/14946947/88870137-9e7c9400-d1e2-11ea-8864-258a8f9c1cc2.png">
@@ -22,3 +22,5 @@ The data I will be using comes from the 2018 meta-analysis "Associations between
 
 # User Research and Interviews
 <img src="https://user-images.githubusercontent.com/14946947/88877550-c0324700-d1f3-11ea-9f69-679f54ec1599.png">
+
+# Part 2
