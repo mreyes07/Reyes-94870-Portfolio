@@ -2,8 +2,8 @@
 This will be a clear visualization of some of the data collected by the 2018 meta analysis Associations between sex work laws and sex workers’ health: A systematic review and meta-analysis of quantitative and qualitative studies. The goal is to show the negative effects of criminalization of sex work and to inspire the reader to support sex worker safety.
 
 # Link To Final Website
-<br>
 https://carnegiemellon.shorthandstories.com/the-danger-of-criminalizing-sex-work/index.html
+<br>
 <br>
 <img src="https://user-images.githubusercontent.com/14946947/89600779-d2823580-d830-11ea-949f-f30b74e30eb0.png">
 
@@ -27,6 +27,7 @@ The data I will be using comes from the 2018 meta-analysis "Associations between
 # Intended Audinece 
 
 The intended audience for this project is people unfamiliar with sex work (primarily in Pittsburgh). I felt that many people who are unfamilar with the realities of sex work do not understand what criminalization truely means for sex workers. The first three slides are just deticated to a basic education on sex work as well as adressing some miss conceptions (sex workers work against thier will, sex work only means selling sex, ect.). I felt that adressing these ideas first would make the audience more receptive to the data that was collected. Some of the most important data was qualatative from interviews which I felt people would be unsympathetic to without more of a primer. 
+<br>
 <br>
 piss
 # Design Decisions
