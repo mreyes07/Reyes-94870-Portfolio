@@ -1,6 +1,14 @@
 # Reyes-94870-Final
 This will be a clear visualization of some of the data collected by the 2018 meta analysis Associations between sex work laws and sex workers’ health: A systematic review and meta-analysis of quantitative and qualitative studies. The goal is to show the negative effects of criminalization of sex work and to inspire the reader to support sex worker safety.
 
+# Link To Final Website
+<br>
+https://carnegiemellon.shorthandstories.com/the-danger-of-criminalizing-sex-work/index.html
+<br>
+<img src="https://user-images.githubusercontent.com/14946947/89600779-d2823580-d830-11ea-949f-f30b74e30eb0.png">
+
+## Part 1
+
 # Introduction and Outline
 <img src="https://user-images.githubusercontent.com/14946947/88870137-9e7c9400-d1e2-11ea-8864-258a8f9c1cc2.png">
 
