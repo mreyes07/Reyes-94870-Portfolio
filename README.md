@@ -1,18 +1,18 @@
 # Reyes-94870-Portfolio
-Victoriano Reye's Profolio Telling Stories with Data Summer 2020 at Carnegie Mellon University. 
+Victoriano Reye’s Profolio Telling Stories with Data Summer 2020 at Carnegie Mellon University. 
 
 # About Me
-My name is Vic, my pronouns are he/him, and I am in the Arts Management Program at Heinz. I previously worked at the Thomas Merton Center doing data management. I'm currently a volunteer with SistersPGH, Covaid.co, and Pittsburgh Mutual Aid doing case management and fundraising. My plans after graduation are to begin working at Allies for Health + Wellbeing, publish comics and video games, and to get a cat. 
+My name is Vic, my pronouns are he/him, and I am in the Arts Management Program at Heinz. I previously worked at the Thomas Merton Center doing data management. I’m currently a volunteer with SistersPGH, Covaid.co, and Pittsburgh Mutual Aid doing case management and fundraising. My plans after graduation are to find a job in the social service sector, publish comics, and get a cat.
 
 # What I Hope To Learn
-I don't have much formal teaching on data visualization so I am excited to learn most anything since it is pretty new to me. I mostly hope to learn better design techniques for communicating complex information as well as simple data visualization software techniques. 
+I don’t have much formal teaching on data visualization so it is all pretty new to me. I mostly hope to learn better design techniques for communicating complex information as well as simple data visualization software techniques.
 
 # Portfolio
-*Assignment: Visualizing Government Debt*
+<em>Assignment: Visualizing Government Debt<em>
 
-All these charts use the same data from OECD.org which has the debt-to-GDP ratio of countries all over the world over time. The debt-to-GDP ratio is described on the website as "Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable." Some data is missing for some years inlcuding 2019 in which some has not been collected yet. Despite all charts using the same data, the three charts bellow comunicate diffrent things and have diffrent uses.
+All these charts use the same data from OECD.org which has the debt-to-GDP ratio of countries all over the world over time. The debt-to-GDP ratio is described on the website as “Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable.” Data is missing for some years including 2019. 
 
-As shown in the Visual Vocabulary document from FT graphic, bar graphs comunicate a ranking. In this case the ranking is of countries have the most debt. This chart is the esiest to understand of the three. It gives us a clear line up and uses a simple color palet with enough contrast to clearly see diffrent elements. The list of countries is hard to read because it is slanted and cramped but, the mouse over tabs clear up information so this didn't confuse me too much.
+Despite all charts using the same data, the three charts below communicate different things and have different uses. As shown in the Visual Vocabulary document from FT graphic, bar graphs communicate a ranking. In this case the ranking is of countries that have the most debt. This chart is the easiest to understand of the three. It gives us a clear line up and uses a simple color palette with enough contrast to clearly see different elements. The list of countries is hard to read because it is slanted and cramped but, the mouse over tabs clear up information so this didn’t confuse me too much.
 <iframe src="https://data.oecd.org/chart/61Ls" width="950" height="713" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/61Ls" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
 The secound chart is the hardest to read for me. It is a complilation of multiple charts smushed into one. It is useful in giving a picture of the paterns of each countires debt. It is also taking the extra step from the firt graph and comunicating debt overtime. It is hard to get a hold of at fist but, it is comunicating a lot of information and is the best at ephisizing the each indevidual countries debt and probably would be best for predicting the future debt of a country. However, it would be hard to read if you wented to compare countries two eachother for a given year, like done in the first graph.
