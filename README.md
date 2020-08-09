@@ -47,6 +47,9 @@ The first step to creating this graph was making minor adjustments to how rate w
 The final design did not end up being as different as the original as I had initially imagined. However, I think it is still more successful at illustrating a lack of relationship. After this exercise I have a better appreciation for the original as I struggled for hours trying out different variables and couldn't come up with a design that was much different.
 <img src="https://user-images.githubusercontent.com/14946947/88246235-e7bf6780-cc67-11ea-913f-cc62b94b2cb1.png" alt="it's not about crime redesign">
 
-# Assignment: Final
+# Assignment: Final, The Danger of Criminalizing Sex Work
+<a href="https://carnegiemellon.shorthandstories.com/the-danger-of-criminalizing-sex-work/index.html">Final Project</a>
+<br>
+<br>
+<a href="https://mreyes07.github.io/Reyes-94870-Portfolio/final_project_VicReyes.html">Documentation</a>
 
-[final_project_VicReyes.md](Final Project Page)
