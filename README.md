@@ -3,11 +3,11 @@
 Victoriano Reye’s Profolio Telling Stories with Data Summer 2020 at Carnegie Mellon University. 
 
 - [About Me](#about-me)
-- [What I Hope To Learn](#What-I-Hope-To-Learn)
-- [Portfolio](#Portfolio)
-  * [Visualizing Government Debt](Assignment-Visualizing-Government-Debt)
-  * [Critique by Design](Assignment-Critique-by-Design)
-  * [Final](Assignment-Final-The-Danger-of-Criminalizing-Sex-Work)
+- [What I Hope To Learn](#what-i-hope-to-learn)
+- [Portfolio](#portfolio)
+  * [Visualizing Government Debt](#assignment-visualizing-government-debt)
+  * [Critique by Design](#assignment-critique-by-design)
+  * [Final](#assignment-final-the-danger-of-criminalizing-sex-work)
 
 
 # About Me
