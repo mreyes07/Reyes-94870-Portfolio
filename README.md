@@ -8,7 +8,7 @@ My name is Vic, my pronouns are he/him, and I am in the Arts Management Program 
 I don’t have much formal teaching on data visualization so it is all pretty new to me. I mostly hope to learn better design techniques for communicating complex information as well as simple data visualization software techniques.
 
 # Portfolio
-<em>Assignment: Visualizing Government Debt<em>
+<b>Assignment: Visualizing Government Debt</b>
 
 All these charts use the same data from OECD.org which has the debt-to-GDP ratio of countries all over the world over time. The debt-to-GDP ratio is described on the website as “Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable.” Data is missing for some years including 2019. 
 
