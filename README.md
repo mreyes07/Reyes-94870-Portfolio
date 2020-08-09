@@ -49,4 +49,4 @@ The final design did not end up being as different as the original as I had init
 
 # Assignment: Final
 
-[final_project_VicReyes.md](final_project_VicReyes.md)
+[final_project_VicReyes.md](Final Project Page)
