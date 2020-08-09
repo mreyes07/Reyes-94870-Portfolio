@@ -2,12 +2,9 @@
 # Reyes-94870-Portfolio
 Victoriano Reye’s Profolio Telling Stories with Data Summer 2020 at Carnegie Mellon University. 
 - [About Me](#About-Me)
-- [Heading](#heading-1)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
+- [What I Hope To Learn](#What-I-Hope-To-Learn)
+- [Portfolio](#Portfolio)
+ * [Visualizing Government Debt](#Assignment:-Visualizing-Government-Debt)
 
 # About Me
 My name is Vic, my pronouns are he/him, and I am in the Arts Management Program at Heinz. I previously worked at the Thomas Merton Center doing data management. I’m currently a volunteer with SistersPGH, Covaid.co, and Pittsburgh Mutual Aid doing case management and fundraising. My plans after graduation are to find a job in the social service sector, publish comics, and get a cat.
@@ -16,7 +13,7 @@ My name is Vic, my pronouns are he/him, and I am in the Arts Management Program 
 I don’t have much formal teaching on data visualization so it is all pretty new to me. I mostly hope to learn better design techniques for communicating complex information as well as simple data visualization software techniques.
 
 # Portfolio
-<b>Assignment: Visualizing Government Debt</b>
+## Assignment: Visualizing Government Debt
 
 All these charts use the same data from OECD.org which has the debt-to-GDP ratio of countries all over the world over time. The debt-to-GDP ratio is described on the website as “Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable.” Data is missing for some years including 2019. 
 
@@ -31,7 +28,7 @@ In my third graph I attempted to make a graph that communicates the information 
 
 All graphs could use some rewoking in terms of labeling and decription. What the Debt-to-GDP and Total % of GDP could be explained or phrased more clearly for the average viewer. The title could also do a better job at illustrating why we are looking at the graph in the first place and why it is important or interesting.
 
-<b>Assignment: Critique by Design</b>
+## Assignment: Critique by Design
 
 <img src="https://c0.piktochart.com/v2/uploads/4ff5230e-f2eb-4016-9187-64a2e6ef86d3/6eeebab7684f656d9d7f3fc005c5f43bbd98d575_original.png?1569845676=" alt="It's not about crime">
 
@@ -55,7 +52,7 @@ The first step to creating this graph was making minor adjustments to how rate w
 The final design did not end up being as different as the original as I had initially imagined. However, I think it is still more successful at illustrating a lack of relationship. After this exercise I have a better appreciation for the original as I struggled for hours trying out different variables and couldn't come up with a design that was much different.
 <img src="https://user-images.githubusercontent.com/14946947/88246235-e7bf6780-cc67-11ea-913f-cc62b94b2cb1.png" alt="it's not about crime redesign">
 
-# Assignment: Final, The Danger of Criminalizing Sex Work
+## Assignment: Final, The Danger of Criminalizing Sex Work
 <a href="https://carnegiemellon.shorthandstories.com/the-danger-of-criminalizing-sex-work/index.html">Final Project</a>
 <br>
 <br>
