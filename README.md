@@ -2,7 +2,7 @@
 # Reyes-94870-Portfolio
 Victoriano Reye’s Profolio Telling Stories with Data Summer 2020 at Carnegie Mellon University. 
 
-* TOC {:toc}
+{:toc}
 
 - [About Me](#About-Me)
 - [What I Hope To Learn](#What-I-Hope-To-Learn)
