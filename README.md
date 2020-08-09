@@ -1,6 +1,6 @@
 
 # Reyes-94870-Portfolio
-Victoriano Reye’s Profolio Telling Stories with Data Summer 2020 at Carnegie Mellon University. 
+Victoriano Reye’s profolio for Telling Stories with Data summer 2020 at Carnegie Mellon University. 
 
 - [About Me](#about-me)
 - [What I Hope To Learn](#what-i-hope-to-learn)
