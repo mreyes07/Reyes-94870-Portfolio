@@ -4,7 +4,7 @@ Victoriano Reye’s Profolio Telling Stories with Data Summer 2020 at Carnegie M
 - [About Me](#About-Me)
 - [What I Hope To Learn](#What-I-Hope-To-Learn)
 - [Portfolio](#Portfolio)
-  * [Visualizing Government Debt](#Assignment:-Visualizing-Government-Debt)
+  * [Visualizing Government Debt](#Assignment-Visualizing-Government-Debt)
 
 # About Me
 My name is Vic, my pronouns are he/him, and I am in the Arts Management Program at Heinz. I previously worked at the Thomas Merton Center doing data management. I’m currently a volunteer with SistersPGH, Covaid.co, and Pittsburgh Mutual Aid doing case management and fundraising. My plans after graduation are to find a job in the social service sector, publish comics, and get a cat.
